@@ -1,4 +1,4 @@
-# AmyCohort Analysis Project
+# Retail Cohort Analysis Project
 
 ## Project Purpose
 
